@@ -1,23 +1,38 @@
-# Hi, I'm Đặng Tấn Phong 👋
-### 👨‍💻About me
+# Hi, I'm Đặng Tấn Phong 🙋🙋🙋
+# 🙆‍♂️About me
 <p align='center'>
    <a href="https://github.com/user-attachments/assets/52680fd0-87c5-4488-8385-861f4ff3fcc1"><img
            height=150
            src="https://github.com/user-attachments/assets/52680fd0-87c5-4488-8385-861f4ff3fcc1"/></a>
   
 </p>
-* Hello everyone, my name is Dang Tan Phong. This year I am 20 years old. I was born and raised in a place with fruit orchards and unique cultural products, Tien Giang. I am a student at Ho Chi Minh City University of Foreign Languages ​​and Information Technology. Study the future of software engineering as a programmer.
+
+
+* Hello everyone, my name is Dang Tan Phong. 
+* This year I am 20 years old. 
+* I was born and raised in a place with fruit orchards and unique cultural products, Tien Giang. 
+* I am a student at Ho Chi Minh City University of Foreign Languages ​​and Information Technology.
 * I am a software engineer with passion for building and optimizing web applications. With 3 years of experience in this field, I am always ready to learn new technologies and improve my skills to bring value to projects.
 
+# 📞Contact
+📧 Email: tanphong2525@gmail.com.+
 
-### 📫Contact
-📧 Email: tanphong2525@gmail.com
-
-📱 Số điện thoại: +84 392 072 887
+📱 Số điện thoại: +84 392 072 123
 
 🌐 LinkedIn: linkedin.com/in/dangtanphong
 
 💻 GitHub: github.com/chautinhpo
+
+
+
+# ✨ Interest
+
+* Likes to learn new technology
+* Likes to play football
+* Likes listening to music
+
+
+
 # 🛠 Skills
 ### Programming language
 * JavaScript: Use in web development with React and Node.js
@@ -35,6 +50,14 @@
 
 # 🎓 Degree
 * Temporarily not available
+
+# 🖥️ Database
+
+* Mongo DB
+* SQL Sever
+* Php
+
+
 
 # ✅ Project implemented
 ### 1. Online Story Reading Application
