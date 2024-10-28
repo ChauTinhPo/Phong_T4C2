@@ -38,11 +38,6 @@
 * JavaScript: Use in web development with React and Node.js
 * Python: Used for data analysis and back-end development
 * Java: Used for enterprise and back-end applications
-### Technology & Tools
-* Front-end: HTML, CSS, JavaScript, React, type
-* Back-end: Node.js, Express, Django
-* Database: MySQL, MongoDB, PostgreSQL
-* Support tools: Git, Docker, VSCode, Postman
 ### Other skills
 * Project management according to Agile/Scrum model
 * Database design and query optimization
@@ -57,7 +52,18 @@
 * SQL Sever
 * Php
 
+# 🎴Front-end
 
+* HTML
+* CSS
+* JavaScript
+* React
+* Type
+
+# ⌨️Back-end
+* Node.js
+* Express
+* Django
 
 # ✅ Project implemented
 ### 1. Online Story Reading Application
