@@ -1,1 +1,1 @@
-# Phong_T4C2
+Xin chào mọi người, tôi tên là Đặng Tấn Phong. Năm nay tôi 20 tuổi. Tôi được sinh ra và lớn lên tại nơi có những vườn cây trái trĩu quả và các di sản văn hóa đặc sắc đó là Tiền Giang.Tôi là một sinh viên trường đại học Ngoại ngữ - Tin học thành phố Hồ Chí Minh. Đang theo học ngành công nghệ phần mềm tương lai là một lập trình viên.  
