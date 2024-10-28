@@ -3,9 +3,8 @@
 <p align='center'>
    <a href="https://github.com/user-attachments/assets/52680fd0-87c5-4488-8385-861f4ff3fcc1"><img
            height=150
-           src="https://github-readme-stats.vercel.app/api?username=romankh3&show_icons=true&count_private=true"/></a>
-   <a href="https://github.com/romankh3/github-readme-stats"><img height=150
-                                                                  src="https://github-readme-stats.vercel.app/api/top-langs/?username=romankh3&layout=compact"/></a>
+           src="https://github.com/user-attachments/assets/52680fd0-87c5-4488-8385-861f4ff3fcc1"/></a>
+  
 </p>
 * Hello everyone, my name is Dang Tan Phong. This year I am 20 years old. I was born and raised in a place with fruit orchards and unique cultural products, Tien Giang. I am a student at Ho Chi Minh City University of Foreign Languages ​​and Information Technology. Study the future of software engineering as a programmer.
 * I am a software engineer with passion for building and optimizing web applications. With 3 years of experience in this field, I am always ready to learn new technologies and improve my skills to bring value to projects.
